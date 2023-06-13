@@ -16,4 +16,4 @@ Automatically updates all visualizations when a new sample is selected
 Resources
 
 The dataset used in this project is sourced from: https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json
-This challenge was completed with the help of class exercises, youtube tutorials, one on one tutorials, AskBSC, stack overflow
+This challenge was completed with the help of class exercises, youtube tutorials, one on one tutorials, AskBSC, stack overflow, javascript cheat sheet pdf
